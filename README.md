@@ -7,7 +7,7 @@ Script2Anki ist ein Tool, das Vorlesungsskripte entgegennimmt und Anki-Karteikar
 - Automatische Erkennung und Umwandlung von Skripten in Anki-Karteikarten.
 - Einfache Integration in den Anki-Lernprozess.
 
-## Anforderungens
+## Anforderungen
 
 - `requirements.txt`.
 

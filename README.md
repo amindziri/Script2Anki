@@ -39,4 +39,4 @@ Beiträge zum Projekt sind herzlich willkommen. Wenn Sie einen Fehler finden ode
 
 ## Kontakt
 
-Für Fragen und Feedback kontaktieren Sie bitte [Maher](mailto:maherhadid02@outlook.de?subject=[GitHub]%20Source%20Han%20Sans)
+Für Fragen und Feedback kontaktieren Sie bitte [Amin](mailto:amin.dziri@gmx.de?subject=[GitHub]%20Source%20Han%20Sans) oder [Maher](mailto:maherhadid02@outlook.de?subject=[GitHub]%20Source%20Han%20Sans)

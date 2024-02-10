@@ -1,3 +1,5 @@
 import functions
 
-extract_text_from_file()
+
+if __name__ == '__main__':
+    extract_text_from_file()
